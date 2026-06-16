@@ -17,7 +17,8 @@ public class Shapes {
             System.out.println("4. top-left");
             System.out.println("5. top-right");
             System.out.println("6. Print isosceles triangle");
-            System.out.println("7. Exit");
+            System.out.println("6. Print Inverted isosceles triangle");
+            System.out.println("8. Exit");
             System.out.print("Enter a number: ");
             number = input.nextInt();
             switch(number) {
