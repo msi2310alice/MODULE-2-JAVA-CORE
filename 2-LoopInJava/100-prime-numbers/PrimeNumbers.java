@@ -10,7 +10,7 @@ public class PrimeNumbers {
                 text += i + ";";
             }
         }
-        System.out.print("Prime numbers less than 100:" + text);
+        System.out.print("Prime numbers less than 100: " + text);
     }
     public static Boolean checkPrime(int number){
         boolean isPrime = true;
